@@ -7,6 +7,6 @@
 <p>目前已经实现前端路由，后端session回话，以及数据库增删改查</p>
 
 #License
-<a href="http://wuzuoyi.com">about me</a><br/>
+<a href="http://www.webnpm.com/">about me</a><br/>
 Copyright (c) 2011-2016 Mr.Z(QQ:953043100)
 
